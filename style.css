@@ -36,7 +36,7 @@
  }
 .navigation ul{
     display: flex;
-    align-items: center;
+    align-items: right;
     gap: 5rem;
 }
 .navigation ul li a{

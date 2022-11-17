@@ -37,7 +37,7 @@
 .navigation ul{
     display: flex;
     align-items: right;
-    gap: 5rem;
+    gap: 8rem;
 }
 .navigation ul li a{
     color: var(--dark);
